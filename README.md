@@ -29,7 +29,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src='walkthrough-2.gif' width=500><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
 
 For a while, I had a problem with onFailure being thrown but I got help through the discussion board and was able to fix it--I just had to restart the app on the emulator.
 
